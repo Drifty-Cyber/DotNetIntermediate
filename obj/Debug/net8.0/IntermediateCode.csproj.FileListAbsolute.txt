@@ -73,3 +73,4 @@ C:\Users\Drifty\Desktop\C#\DbIntermediate\IntermediateCode\bin\Debug\net8.0\runt
 C:\Users\Drifty\Desktop\C#\DbIntermediate\IntermediateCode\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Drifty\Desktop\C#\DbIntermediate\IntermediateCode\obj\Debug\net8.0\IntermediateCode.csproj.AssemblyReference.cache
 C:\Users\Drifty\Desktop\C#\DbIntermediate\IntermediateCode\obj\Debug\net8.0\Intermed.E01EE325.Up2Date
+C:\Users\Drifty\Desktop\C#\DbIntermediate\IntermediateCode\obj\Debug\net8.0\IntermediateCode.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntermediateCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7eccbc36b02c2d9c9d9cd8284bc72280646c48c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64181993a9af3f4ff1dfcc2f4858407505dbeda5")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntermediateCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntermediateCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
